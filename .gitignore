@@ -1,10 +1,12 @@
 *.class
 .idea
+java2k2s.iml
 Test.java
 <<<<<<< HEAD
 =======
 >>>>>>> 64fa995eb1c6de247397ccb65b1351d193d0fc23
 .git
+
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
